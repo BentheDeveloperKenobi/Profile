@@ -1,9 +1,25 @@
-header {background-color: beige}
-h1 {color: black;
+header {background-color: silver}
+h1 {color: darkblue;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-align: center}
-p {color: rgb(107, 78, 24);
-font-family: cursive}
-body {background-color: beige;}
-li {color: orange;
+p {color: silver;
+font-family: cursive;
+text-align: center}
+body {background-color: darkblue;}
+li {color: silver;
 font-family: fantasy}
+footer { background-color: silver}
+h2 { color: silver;
+text-align: center}
+.btn-primary {
+  color: #fff;
+  background-color: #f12f2f;
+  border-color: #f52222;
+text-align: center;}
+.center { text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+h3 {color: darkblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
