@@ -11,11 +11,9 @@ font-family: fantasy}
 footer { background-color: silver}
 h2 { color: silver;
 text-align: center}
-.btn-primary {
-  color: #fff;
-  background-color: #f12f2f;
-  border-color: #f52222;
-text-align: center;}
+color: silver;
+  background-color: darkblue;
+  border-color: silver;}
 .center { text-align: center;
   display: block;
   margin-left: auto;
