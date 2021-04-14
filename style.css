@@ -4,33 +4,61 @@ header {
   padding: 20px;
 }
 
-h1 {color: darkblue;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-text-align: center}
-p {color: silver;
-font-family: cursive;
-text-align: center}
-body {background-color: darkblue;}
-li {color: silver;
-font-family: fantasy}
-footer { background-color: silver;
-padding: 20px}
-h2 { color: silver;
-text-align: center}
+h1 {
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  }
+
+h2 { 
+  color: silver;
+  text-align: center;
+  }
+
+h3 {
+  color: darkblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+/* Paragraph and list styles */  
+p {
+  color: silver;
+  font-family: cursive;
+  text-align: center;
+  }
+
+body {
+  background-color: darkblue;
+  }
+
+li {
+  color: silver;
+  font-family: fantasy;
+  }
+  
+/*All other element stles*/
+footer { 
+  background-color: silver;
+  padding: 20px;
+  }
+
 .btn-primary {
   color: Silver;
   background-color: darkblue;
   border-color: silver;
-text-align: center;}
+  text-align: center;
+  }
+
 .btn-primary:hover {
-  color: grey
+  color: grey;
 }
-.center { text-align: center;
+.center { 
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: auto;
-  height: 250px;}
-h3 {color: darkblue;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+  height: 250px;
+  }
+
 a {font-size: 20px;}
