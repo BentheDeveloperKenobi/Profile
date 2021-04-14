@@ -1,4 +1,9 @@
-header {background-color: silver}
+/* Header styles */
+header {
+  background-color: silver;
+  padding: 20px;
+}
+
 h1 {color: darkblue;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-align: center}
@@ -8,20 +13,24 @@ text-align: center}
 body {background-color: darkblue;}
 li {color: silver;
 font-family: fantasy}
-footer { background-color: silver}
+footer { background-color: silver;
+padding: 20px}
 h2 { color: silver;
 text-align: center}
 .btn-primary {
-  color: #fff;
+  color: Silver;
   background-color: darkblue;
   border-color: silver;
 text-align: center;}
+.btn-primary:hover {
+  color: grey
+}
 .center { text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;}
+  width: auto;
+  height: 250px;}
 h3 {color: darkblue;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 a {font-size: 20px;}
-img {height: 250px;}
